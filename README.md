@@ -4,6 +4,7 @@ EAST : An Efficient and Accurate Scene Text Detector Re-implementation
 
 ## Implementation Checklist
 * [x] Custom DataSet and Loader for ICDAR2015, COCO-Text, MSRA-TD500
+* [ ] VGG16 Model for Feature Extraction
 * [ ] Pvanet Model for Feature Extraction
 * [ ] Loss for Score Map and Geometrics
 * [ ] Training
